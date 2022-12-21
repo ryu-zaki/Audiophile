@@ -258,7 +258,7 @@ body {
     height: var(--overlayHeight);
     z-index: 900;
     display: none;
-    /* display: flex; */
+    display: flex;
     justify-content: flex-end;
     align-items: flex-start;
     padding-right: var(--padding-cart);
